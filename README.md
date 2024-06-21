@@ -9,3 +9,6 @@
 ###### Curso
 [Curso de HTML e CSS: praticando HTML/CSS](https://cursos.alura.com.br/course/html-css-praticando-html-css)
 
+###### Publicado
+
+[rogerioPlus](https://rogerio-plus.vercel.app/)
